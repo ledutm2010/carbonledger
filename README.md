@@ -228,7 +228,7 @@ Empresas compradoras compram créditos de carbono.
 O sistema:
 
 - calcula automaticamente a compensação;
-- impede compras após compensar emissão e receber nft.
+- impede compras após compensar emissão e receber NFT.
 
 Exemplo:
 
@@ -406,7 +406,7 @@ O NFT Verde representa:
 
 ## Compradoras
 
-- não podem comprar créditos após compensar emissão e receber nft;
+- não podem comprar créditos após compensar emissão e receber NFT;
 - recebem NFT ao atingir compensação.
 
 ---
