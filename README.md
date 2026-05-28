@@ -330,7 +330,7 @@ https://sepolia.etherscan.io/address/0xd0B90fDF416350a8fa7533740993a21eE8122752
 ## Clonar repositório
 
 ```bash
-git clone <repo>
+git clone https://github.com/ledutm2010/carbonledger
 ```
 
 ---
