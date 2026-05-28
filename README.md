@@ -392,18 +392,6 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ---
 
-# MetaMask
-
-Adicionar rede local:
-
-| Campo | Valor |
-|---|---|
-| RPC URL | http://127.0.0.1:8545 |
-| Chain ID | 31337 |
-| Símbolo | ETH |
-
----
-
 # NFTs Ambientais
 
 O NFT Verde representa:
