@@ -491,5 +491,5 @@ https://youtu.be/J5Keh8M72BU
 Adicionar link dos slides aqui:
 
 ```txt
-https://docs.google.com/presentation/d/1w9CP7zrN6R9M7nJFRZrVi55RuS0g1TjkCC0QEGNJbgQ/edit?slide=id.g3e5155c7505_0_0#slide=id.g3e5155c7505_0_0
+https://drive.google.com/file/d/1D3vZhY-ZrP4VoXE8ZMc8exX139IKff6Q/view?usp=sharing
 ```
